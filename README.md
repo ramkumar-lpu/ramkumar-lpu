@@ -1,18 +1,174 @@
-# 💫 About Me:
-I am currently persuing my batchlers in Computer Science engineering in Lovely professional University jalandhar punjab <br>Searching for a internship .Am currently Learning Mern Stack as minor of Full stack developer .<br>.I like to play cricket and listneing music in my free time 
+<h1 align="center">Hi 👋, I'm Ram Kumar</h1>
+<h3 align="center">Aspiring Full-Stack Developer | MERN Stack | DevOps Enthusiast from India</h3>
 
+###
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ramkumar Kasaudhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/royalkiller_rk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ram9219) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramkumar9219447537@gmail.com) 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Computer+Science+Student;DevOps+Enthusiast;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ram9219&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ram9219&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram9219&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=Ram9219&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="left">🚀 About Me</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<p align="left">
+  🎓 I'm currently pursuing B.Tech in Computer Science Engineering at <b>Lovely Professional University, Jalandhar</b><br>
+  💻 I'm specializing in <b>Full-Stack Development with MERN Stack & DevOps</b><br>
+  🔭 I'm actively seeking <b>internship opportunities</b> to gain industry experience<br>
+  🌱 I'm currently learning <b>MERN Stack, DevOps tools (Docker, AWS, Jenkins), and exploring AI/ML</b><br>
+  ⚡ Fun fact: I love playing cricket, BGMI, and volleyball in my free time<br>
+  🎯 Goal: To become a professional developer with expertise in MERN Stack, DevOps, and AI/ML
+</p>
+
+###
+
+<h2 align="left">🛠️ Languages and Tools</h2>
+
+###
+
+<h3 align="left">💻 Frontend Development</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<h3 align="left">⚙️ Backend & Database</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<h3 align="left">🚀 DevOps & Cloud Tools</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+</div>
+
+###
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramkumar-lpu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramkumar-lpu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramkumar-lpu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+###
+
+<h2 align="left">📈 Contribution Graph</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramkumar-lpu&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" width="90%" />
+</div>
+
+###
+
+<h2 align="left">📊 Profile Summary</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramkumar-lpu&theme=tokyonight" width="90%" />
+  
+  <br><br>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramkumar-lpu&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ramkumar-lpu&theme=tokyonight" width="45%" />
+  
+  <br><br>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramkumar-lpu&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramkumar-lpu&theme=tokyonight&utcOffset=8" width="45%" />
+</div>
+
+###
+
+<h2 align="left">🏆 GitHub Trophies</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ramkumar-lpu&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="90%" />
+  <br>
+  <sub>⚡ Trophies reflect my GitHub achievements</sub>
+</div>
+
+###
+
+<h2 align="left">🤝 Connect with me</h2>
+
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/ram9219" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:ramkkumar977@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://github.com/Ramkumar-lpu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://leetcode.com/u/ramkumar223" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ramkumar92194471" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ramkumar-lpu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Ramkumar-lpu?label=Followers&style=social" alt="GitHub followers" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+###
+
+<p align="center">
+  <b>Thanks for visiting my profile! Have a great day! 😊</b>
+</p>
